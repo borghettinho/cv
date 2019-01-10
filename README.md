@@ -1,5 +1,6 @@
 # Valker Vieira
-* 29 anos | Pai | Desenvolvedor Front-end | Estudante de Licenciatura em Matemática
+* 24 anos | Pai da Leana | Estudante de Licenciatura em Matemática
+* Porto Alegre | RS | Brasil
 * valker.vieira@gmail.com
 * [WhatsApp](https://api.whatsapp.com/send?phone=5551997159176)
 ___
@@ -46,6 +47,9 @@ ___
 * NodeJS (aprendendo)
 * MongoDB (aprendendo - standby)
 
+### Equipamento ###
+* Máquina: Notebook Asus X550LN - i5 / 6GB / 240SSD | Linux Manjaro KDE (Arch)
+* Softwares principais: VS Code | Google Chrome | Konsole
 
 ### Formação ###
 
@@ -55,12 +59,22 @@ ___
 
 **Universidade do Vale do Rio do Sinos**
 * Engenharia Eletrônica/Controle e Automação
-#### Trancado / 5º semestre ❌ ####
+#### Trancado X | 5º semestre  ####
 
 **Ftec Faculdades**
 * Técnico em Informática para Internet
-#### Concluío | 2013 ✔ ####
+#### Concluío ✔ | 2013  ####
 
 
 ### Experiência ###
+
+**EvoluteCursos - Profissionalizantes e Idiomas**
+* Instrutor
+##### nov/2017 - atualmente ####
+  > Acompanhamento/suporte aos alunos, criação de material de reforço e exercicios, criação de soluções de logística de alunos e materiais
+
+**Grupo Sage** 
+* Analista de Supote de T.I.
+#### fev/2014 - set/2014 ####
+  > Suporte aos usuários, manutenção das máquinas do parque, rotina de backup, criação/exclusão de usuários no MS ActiveDirectory e Outlook, suporte à infra, instalação de máquinas
 
