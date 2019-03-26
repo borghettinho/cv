@@ -9,47 +9,45 @@ ___
 * Desenvolvedor Front-end | Júnior
 
 ### Habilidades Pessoais ###
-* Comunicativo - Gosto de ouvir e ser ouvido
+* Comunicativo - Gosto de ouvir e ser ouvido, aceito críticas numa boa
 * Facilidade de interpretação - Não tenho dificuldade em compreender o que foi dito
 * Questionador - Procuro entender os 'porquês' por trás de tudo
-* Sem preconceitos - Respeito raça, gênero, religião, orientação sexual e qualquer individualidade
-* Hábito de leitura - Leio obras em português em inglês de variados gêneros literários
+* Sem preconceitos - Respeito raça, gênero, religião, orientação sexual e qualquer outra individualidade
+* Hábito de leitura - Leio obras em português em inglês de variados gêneros literários e não tenho medo de documentação
 
 ### Habilidades Técnicas ###
 * Interfaces complexas em HTML/CSS/JS/Frameworks
+* Componentização de interfaces
+* Programação funcional
+* [Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/)
 * Animações em HTML/CSS
 * Lógica matemática
-* Responsividade (aprendendo)
-* Mobile First (aprendendo)
-* SEO (aprendendo)
-* UI/UIX (aprendendo)
+* Responsividade / Mobile First
+* UI/UIX
 
 ### Idiomas ###
 * Português - Nativo, leitura/escrita formal
 * Inglês - Avançado
 
 ### Softwares ###
-* Pacote Office
-* Adobe Photoshop
-* Adobe Illustrator - Básico
+* Pacote Office / Libreoffice
+* Photoshop
+* Figma
 * SketchUp
-* Git (aprendendo)
+* Git
 
 ### Tecnologias ###
 * HTML5 (Emmet)
 * CSS3 (BEM Architecture)
 * JavaScript (ES6+)
-* Sass (aprendendo)
-* ReactJS (aprendendo)
-* React Native (aprendendo - standby)
-* Redux (aprendendo)
-* Angular (aprendendo - standby)
-* NodeJS (aprendendo)
-* MongoDB (aprendendo - standby)
+* Sass
+* ReactJS (Styled-Components / React Router / React Pose)
+* React Native (ainda aprendendo)
+* Noções de Redux / Redux-Saga
+* Noções de Angular2+ (não é meu foco, mas conheço um pouco)
 
-### Equipamento ###
-* Máquina: Notebook Asus X550LN - i5 / 6GB / 240SSD | Linux Manjaro KDE (Arch)
-* Softwares principais: VS Code | Google Chrome | Konsole
+### Ambiente de desenvolvimento ###
+* Linux | VS Code | Google Chrome Dev | Spotify | GTerm (ZSH + Oh-my-zsh!) | Yarn
 
 ### Formação ###
 
@@ -63,7 +61,7 @@ ___
 
 **Ftec Faculdades**
 * Técnico em Informática para Internet
-#### Concluío ✔ | 2013  ####
+#### Concluído ✔ | 2013  ####
 
 
 ### Experiência ###
