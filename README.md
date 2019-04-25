@@ -55,10 +55,6 @@ ___
 * Licenciatura em Matemática
 #### Cursando ✔ ####
 
-**Universidade do Vale do Rio do Sinos**
-* Engenharia Eletrônica/Controle e Automação
-#### Trancado X | 5º semestre  ####
-
 **Ftec Faculdades**
 * Técnico em Informática para Internet
 #### Concluído ✔ | 2013  ####
