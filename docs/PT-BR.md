@@ -3,13 +3,14 @@
 - 24, pai de uma menina, estudante de matemática
 - Porto Alegre | RS | Brasil
 - valker.vieira@gmail.com
+- https://gitlab.com/valkervieira
 - [+55 51 9 9715 9176](https://api.whatsapp.com/send?phone=5551997159176)
 
 ---
 
 ### Objetivo
 
-- Desenvolvedor Front-end | ReactJS
+- Desenvolvedor Frontend / Fullstack | ReactJS
 
 ### Habilidades Pessoais
 
@@ -25,19 +26,20 @@
 
 ### O que eu sei
 
-- HTML5 - Escrevo sempre com tags semânticas;
-- CSS3 - @media, flex-box, grid, @keyframes, variáveis e etc;
-- JavaScript / EcmaScript2017 - let, const, arrow functions, código modular, async, template strings e etc;
+- HTML5 - Tags semânticas, código limpo e organizado;
+- CSS3 - Conhecimento avançado de layouts, @keyframes e responsividade;
+- JavaScript / ES6+;
 - Pré-processadores CSS - Uso Sass, mas aprenderia outros se for necessário;
-- Ecossistema ReactJS - Redux, Router, Styled-Components e etc;
+- Ecossistema ReactJS - Redux, Router, Styled-Components, Hooks, react-native e etc.;
+- Gatsby.js;
 - Consumo de APIs REST;
-- Versionamento de Código - Git, GitHub, Git Flow;
-- [Elm](https://elm-lang.org/);
-- Paradigma Funcional;
+- Noções de backend com NodeJS, Express, SQL com sequelize, noSQL com mongoose e GraphQL;
+- Versionamento de Código - Git, GitHub/Gitlab, Git Flow;
+- Docker e docker-compose;
 
-### Minhas ferramentas
+### Ferramentas familiares
 
-- Manjaro Linux KDE | VS Code | Chromium | Spotify | Guake (ZSH + Oh-my-zsh!) | Yarn
+- Linux/Mac | VSCode | Docker | Yarn/NPM | zsh
 
 ### Formação
 
@@ -55,11 +57,19 @@
 
 ### Experiência
 
+**Vnda - Tecnologia em ecommerce**
+
+- Frontend developer
+
+##### ago/2019 - atualmente
+
+> Programação de interfaces para loja online de acordo com a especificação da equipe de atendimento e design. Desenvolvimento usando linguagem de template liquid, SCSS e JS/jQuery. Deploy no AWS (S3). Responsável por refinamento de design (animações, usabilidade) e performance.
+
 **EvoluteCursos - Profissionalizantes e Idiomas**
 
 - Instrutor
 
-##### nov/2017 - atualmente
+##### nov/2017 - ago/2019
 
 > Acompanhamento/suporte aos alunos, criação de material de reforço e exercicios, criação de soluções de logística de alunos e materiais.
 
