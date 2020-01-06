@@ -3,13 +3,14 @@
 - 24, dad of a beautiful girl, mathematics student
 - Porto Alegre | RS | Brazil
 - valker.vieira@gmail.com
+- https://gitlab.com/valkervieira
 - [+55 51 9 9715 9176](https://api.whatsapp.com/send?phone=5551997159176)
 
 ---
 
 ### Goal
 
-- Front-end developer | ReactJS developer
+- Front-end developer | Fullstack developer | ReactJS developer
 
 ### Soft skills
 
@@ -25,19 +26,18 @@
 
 ### What i know?
 
-- HTML5 - I always tend to use semantic tags;
-- CSS3 - @media, flex-box, grid, @keyframes, variables, etc;
-- JavaScript / EcmaScript2017 - let, const, arrow functions, async, template strings, etc;
+- HTML5 - Clean code with semantic tags;
+- CSS3 - Advanced layouts, animations with @keyframes and responsive design;
+- JavaScript / ES6+;
 - CSS preprocessors - I use Sass but could learn Less or other if needed;
-- ReactJS Ecosystem - Redux, Router, Styled-Components, etc;
+- ReactJS Ecosystem - Redux, Router, Styled-Components, Hooks, react-native, etc;
 - RESTful APIs;
-- Version Control - Git, GitHub and Git Flow;
-- [Elm](https://elm-lang.org/);
-- Functional programming paradigm;
+- Version Control - Git, GitHub/Gitlab and Git Flow;
+- Notions of backend development with NodeJS and Express, SQL (mainly postgres) with sequelize, noSQL with mongoose (mainly mongodb), and GraphQL.
 
 ### My daily tools
 
-- Manjaro Linux KDE | VS Code | Chromium | Spotify | Guake (ZSH + Oh-my-zsh!) | Yarn
+- Linux/Mac | yarn/npm | VSCode | Docker | zsh
 
 ### Education
 
@@ -55,11 +55,19 @@
 
 ### Work Experience
 
+**Vnda - Tecnologia em ecommerce**
+
+- Frontend Developer
+
+##### August, 2019 - currently
+
+> Ecommerce interface development accordingly to client specification using Shopify liquid template language, SCSS pre-processor and JS with jQuery. Main responsable for fine adjustments like animations and performance.
+
 **EvoluteCursos - Profissionalizantes e Idiomas**
 
 - Teacher
 
-##### November, 2017 - currently
+##### November, 2017 - August, 2019
 
 > General help to students, activities creation, support to english students, logistics of apostille stock.
 
